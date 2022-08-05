@@ -32,3 +32,7 @@
 #### VS Code
 - https://code.visualstudio.com/docs/setup/mac
 - https://www.desuvit.com/11-vscode-keyboard-shortcuts-that-will-boost-your-productivity/
+
+#### Big O
+- https://stackoverflow.com/questions/1569702/is-big-ologn-log-base-e
+- https://www.bigocheatsheet.com/
