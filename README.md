@@ -39,3 +39,8 @@
 
 #### Recursion
 - https://www.youtube.com/watch?v=lMBVwYrmFZQ
+
+#### JSON Parser
+- https://lihautan.com/json-parser-with-javascript/ 
+- https://github.com/mattg614/precourse-part-3/tree/master/json-parser/src
+
